@@ -21,7 +21,7 @@ public class Greeter {
   
   public static void main(String args[]){
     
-	  System.out.println("hello guys i am didin your new assistant i joined as a fresher so if i made any mistake ,correct me !!!");
+	  System.out.println("hello guys i am didin your new assistant i joined as a fresher so if i made any mistake!!!");
   }
 	
 }
